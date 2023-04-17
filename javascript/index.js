@@ -128,4 +128,5 @@ const makingBrusselsSprouts = async() => {
     document.querySelector("#brusselsSproutsImg").removeAttribute("hidden");
   })
 }
+
 makingBrusselsSprouts();
